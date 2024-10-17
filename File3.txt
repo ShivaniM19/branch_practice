@@ -1,0 +1,6 @@
+ Ways to get Source code from remote repo:
+ 1. clone-
+    git clone git@github.com:ShivaniM19/branch_practice.git
+
+ 2. Downloading zip file directly by clicking on code  and then Downloading zip in github 
+ 3. Go to tag and click on zip option to download
