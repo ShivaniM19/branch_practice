@@ -1,4 +1,11 @@
-fbggfiu why your here whast are doing
-
 on branch demo
 adding tag
+second tag:
+git tag -a v1.1 -m "Second tag"
+git show v1.1
+git push orgin v1.1
+
+third tag:
+git tag -a v1.2 -m "Third tag"
+git show v1.1.2
+git push origin v1.2
