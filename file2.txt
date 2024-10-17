@@ -2,3 +2,5 @@ on branch demo
 v1.o tag cretaed 
 git taggit tag -a v1.0 -m "1st release"
 git show v1.0
+
+use pull request
